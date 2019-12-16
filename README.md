@@ -8,7 +8,9 @@ eBay listing I purchased from: https://www.ebay.com/itm/333247140116
 
 ## ZY12PDN, ZY12PDN-1, ZY12PDN-2, ZY12PDN-3
 
-![ZY12PDN-1](ZY12PDN-1.jpg) ![ZY12PDN-2](ZY12PDN-2.jpg) ![ZY12PDN-3](ZY12PDN-3.jpg)
+![ZY12PDN-1](ZY12PDN-1.jpg)
+![ZY12PDN-2](ZY12PDN-2.jpg)
+![ZY12PDN-3](ZY12PDN-3.jpg)
 
 These usually cost a bit more (starting around $8 USD) but are the most customizeable.  It claims to be able to supply 5A. There is a button and RGB LED which helps you determine the selected output voltage.
 
@@ -16,14 +18,13 @@ These usually cost a bit more (starting around $8 USD) but are the most customiz
 
 Press and hold the button as you insert your USB-PD compatible USB-C cable. The RGB LEDs should flash quickly. Release the button. You are now selecting the default operating mode of this circuit. Pressing the button will move to the next default mode. Holding the button will turn off the LED and select the current mode as the default.
 
-Red: 5V is selected by default. **Clicking the button will cycle the output voltage through all available voltage options.**
-Yellow: 9V is selected by default. Clicking the button does not change the output voltage.
-Green: 12V is selected by default. Clicking the button does not change the output voltage.
-Light Blue: 15V is selected by default. Clicking the button does not change the output voltage.
-Dark Blue: 20V is selected by default. Clicking the button does not change the output voltage.
-
-Purple: Highest available voltage is selected by default. Clicking the button does not change the output voltage.
-White: Demo mode - Automatically cycle through all available voltages, starting with 5V and increasing. Changes roughly once per second.
+* Red: 5V is selected by default. **Clicking the button will cycle the output voltage through all available voltage options.**
+* Yellow: 9V is selected by default. Clicking the button does not change the output voltage.
+* Green: 12V is selected by default. Clicking the button does not change the output voltage.
+* Light Blue: 15V is selected by default. Clicking the button does not change the output voltage.
+* Dark Blue: 20V is selected by default. Clicking the button does not change the output voltage.
+* Purple: Highest available voltage is selected by default. Clicking the button does not change the output voltage.
+* White: Demo mode - Automatically cycle through all available voltages, starting with 5V and increasing. Changes roughly once per second.
 
 After you have made your selection for the default operating mode, unplug and replug your USB-C cable to confirm the expected behavior/color.
 

@@ -14,6 +14,8 @@ eBay listing I purchased from: https://www.ebay.com/itm/333247140116
 
 These usually cost a bit more (starting around $8 USD) but are the most customizeable.  It claims to be able to supply 5A. There is a button and RGB LED which helps you determine the selected output voltage.
 
+Print on the main IC: `ST e4 78447 32F030F4P6 PHL 812 A`
+
 ### Changing the default voltage
 
 Press and hold the button as you insert your USB-PD compatible USB-C cable. The RGB LEDs should flash quickly. Release the button. You are now selecting the default operating mode of this circuit. Pressing the button will move to the next default mode. Holding the button will turn off the LED and select the current mode as the default.
@@ -35,6 +37,8 @@ If you plug it into a non USB-PD 5V power source, the LED will flash blue after 
 ![ZYPDS](ZYPDS.jpg)
 
 This is the cheapest option ($2.50 USD), but offers very limited customization. It claims to be able to supply 5A.
+
+Print on the IC: `IP2721 PP27 30A`
 
 It appears to support all the voltage options for USB-PD: 5V, 9V, 12V, 15V, and 20V. It will always select the highest voltage possible from the PD source.
 

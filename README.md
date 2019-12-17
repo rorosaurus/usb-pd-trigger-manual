@@ -1,6 +1,6 @@
 # Some notes on USB-PD triggers
 
-I haven't been able to find good, detailed info about the USB-PD triggers people are using online, so I figured I'd document it here to save you some trouble!
+I haven't been able to find good, detailed info about these USB-PD triggers, so I figured I'd document my findings here to save you some trouble!
 
 GreatScott's video: https://www.youtube.com/watch?v=OwAZqJ4wpJg
 
@@ -8,11 +8,11 @@ eBay listing I purchased from: https://www.ebay.com/itm/333247140116
 
 ## ZY12PDN, ZY12PDN-1, ZY12PDN-2, ZY12PDN-3
 
+These usually cost a bit more (starting around $8 USD) but are the most customizeable.  It claims to be able to supply 5A. There is a button and RGB LED which helps you determine the selected output voltage. They come in some variations with: nothing, USB-A port (female), 5.0mm screw terminal.
+
 ![ZY12PDN-1](ZY12PDN-1.jpg)
 ![ZY12PDN-2](ZY12PDN-2.jpg)
 ![ZY12PDN-3](ZY12PDN-3.jpg)
-
-These usually cost a bit more (starting around $8 USD) but are the most customizeable.  It claims to be able to supply 5A. There is a button and RGB LED which helps you determine the selected output voltage.
 
 Print on the main IC: `ST e4 78447 32F030F4P6 PHL 812 A`
 
@@ -47,3 +47,7 @@ As indicated in the photo above, there is a small pad you can bridge with solder
 The 4 holes on the output side are 0.1" spaced and breadboard-compatible.
 
 It appears to still pass through the 5V power normally, if you plug it into a non USB-PD 5V power source.
+
+## ZY12PDG
+
+I have not tested this board.

@@ -6,6 +6,8 @@ GreatScott's video: https://www.youtube.com/watch?v=OwAZqJ4wpJg
 
 eBay listing I purchased from: https://www.ebay.com/itm/333247140116
 
+Aliexpress listing (5 for $25): https://www.aliexpress.com/item/4001201313715.html
+
 ## ZY12PDN, ZY12PDN-1, ZY12PDN-2, ZY12PDN-3
 
 These usually cost a bit more (starting around $8 USD) but are the most customizeable.  It claims to be able to supply 5A. There is a button and RGB LED which helps you determine the selected output voltage. They come in some variations with: nothing, USB-A port (female), 5.0mm screw terminal.

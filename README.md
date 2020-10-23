@@ -54,6 +54,8 @@ The 4 holes on the output side are 0.1" spaced and breadboard-compatible.
 
 It appears to still pass through the 5V power normally, if you plug it into a non USB-PD 5V power source.
 
+Update: some people are reporting multiple versions of this board. More information [here](https://github.com/rorosaurus/usb-pd-trigger-manual/issues/1#issuecomment-715452533).
+
 ## ZY12PDG
 
 I have not tested this board.
